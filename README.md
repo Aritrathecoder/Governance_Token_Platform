@@ -18,9 +18,10 @@ This contract lets an admin initialize the platform, mint governance tokens, tra
 - On-chain balance and proposal lookup
 
 ## Deployed Smart Contract Link
-Governance Token Platform: Transaction dc07a485fa5ff044ec1eba6ed3afe2fa7b3a55dd02aa27fcf532cf3db8b19dad
-https://stellar.expert/explorer/testnet/tx/7163541593264128#7163541593264129
-<img width="1902" height="875" alt="image" src="https://github.com/user-attachments/assets/d345513c-8e5b-419d-af13-9addfae2874c" />
+Governance Token Platform: Transaction b1f011ab7874e701bdd0c38ea63b0dfa6bb3e5150ce6186170bd79cdfdbbd9a1
+https://stellar.expert/explorer/testnet/tx/7148771200733184#7148771200733185
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/5cccf3ab-1c04-4dbd-ba1a-0ce9e78755b7" />
+
 
 
 
